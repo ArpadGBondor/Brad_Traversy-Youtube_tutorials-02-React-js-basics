@@ -9,7 +9,7 @@
 
 ## Deployed
 
-- [On Netlify]()
+- [On Netlify](https://gabriels-youtube-tutorial-brad-traversy-react-crash-course.netlify.app/)
 
 ## Mayor changes:
 
