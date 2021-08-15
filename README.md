@@ -4,8 +4,9 @@
 
 ## Run:
 
-- "npm i" to download node_modules
-- "npm run netlify" to run the netlify server
+- `npm i` to download node_modules
+- add `.env` file with `DB_CONNECT` environment variable
+- `npm run netlify` to run the netlify server
 
 ## Deployed
 
@@ -19,4 +20,4 @@
 
 ## Environment variable:
 
-- DB_CONNECT=mongodb://localhost:27017/TasksDB
+- `DB_CONNECT=mongodb://localhost:27017/TasksDB`
