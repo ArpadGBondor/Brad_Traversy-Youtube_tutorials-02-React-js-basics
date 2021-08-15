@@ -1,4 +1,4 @@
-# Brad Traversy - Youtube tutorials 01 - React JS Crash Course 2021
+# Brad Traversy - Youtube tutorials 02 - React JS Crash Course 2021
 
 ## [Tutorial video on Youtube](https://youtu.be/w7ejDZ8SWv8)
 
