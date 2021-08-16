@@ -6,7 +6,7 @@
 
 - `npm i` to download node_modules
 - add `.env` file with `DB_CONNECT` environment variable
-- `npm run netlify` to run the netlify server
+- `netlify dev` to run the netlify server
 
 ## Deployed
 
